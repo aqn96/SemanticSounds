@@ -1,2 +1,2 @@
 # Information
-Source code for both the base recommender and the semantic meanings recommender.
+Source code for both the base recommender and the semantic meanings recommender. Also the data files used.
