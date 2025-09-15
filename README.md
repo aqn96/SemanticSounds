@@ -7,6 +7,6 @@ system. Additionally, we explore semantic meanings in song lyrics
 and develop an improved recommender system. The study aims to
 prototype a recommender system that is more personalized than those
 in music apps. Attached is the src code and also the poster presentation
-and research paper.
+and research paper. Below is the youtube video that explains project with demo.
 
 [![Semantic Sounds Demo](demo/semanticsounds_icon.gif)](https://youtu.be/WD1ZR7MbdMA))
