@@ -9,4 +9,4 @@ prototype a recommender system that is more personalized than those
 in music apps. Attached is the src code and also the poster presentation
 and research paper.
 
-[![Semantic Sounds Demo](demo/semanticsounds_icon.gif)](demo/semanticsounds_demo.mp4)
+[![Semantic Sounds Demo](demo/semanticsounds_icon.gif)](https://youtu.be/WD1ZR7MbdMA))
